@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there!👋 I am Pradnya!
+
+I'm a 22-year-old developer based in Chicago, with a knack for turning ideas into reality through code.
+
+🎓I am a [Computer Science](https://www.cdm.depaul.edu/academics/Pages/MS-in-Computer-Science.aspx) student at DePaul University.
+
 
 <!--
 **pradnya-16/pradnya-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
