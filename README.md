@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/pk__1601" target="blank"><img src="https://img.shields.io/twitter/follow/pk__1601?logo=twitter&style=for-the-badge" alt="pk__1601" /></a> </p>
 
-- 🎓 I'm a [Computer Science](https://www.cdm.depaul.edu/academics/Pages/MS-in-Computer-Science.aspx) student at DePaul University.
+- 🎓 I'm a **[Computer Science](https://www.cdm.depaul.edu/academics/Pages/MS-in-Computer-Science.aspx)** student at DePaul University.
   
 - 🌱 I’m currently learning **Android App Development**
 
