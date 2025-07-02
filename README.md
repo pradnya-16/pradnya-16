@@ -8,9 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/pk__1601" target="blank"><img src="https://img.shields.io/twitter/follow/pk__1601?logo=twitter&style=for-the-badge" alt="pk__1601" /></a> </p>
 
-- 🎓 I'm a **[Computer Science](https://www.cdm.depaul.edu/academics/Pages/MS-in-Computer-Science.aspx)** student at DePaul University.
+- 🎓 I'm a software developer with a Master's in Computer Science from DePaul University, passionate about building scalable full-stack and mobile applications that solve real-world problems. I specialize in Java, React, Swift, and Spring Boot, with hands-on experience deploying cloud-native solutions using AWS.
 
-- 📫 How to reach me **pkadam2@depaul.edu**
+- 📫 How to reach me **kpradnya1601@gmail.com**
+- Book a time with me [here](https://calendar.app.google/yZjzBjiKgQMQUyB69)
 
 - ⚡ Fun fact **I can solve Rubik's Cube in under 2 minutes**
 
